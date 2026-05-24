@@ -54,6 +54,9 @@ Clock frequency division using a binary counter
 FPGA implementation and hardware programming on Basys 3
 Vivado design flow: RTL → Synthesis → Bitstream
 
+Picture of the project 
+
+
 
 Author
 Rahul — ECE @ SRM Institute of Science and Technology
