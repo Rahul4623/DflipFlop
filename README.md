@@ -1,4 +1,4 @@
-D Flip-Flop Based Frequency Divider — FPGA Implementation
+D Flip-Flop Based Frequency Divider  FPGA Implementation
 Implemented on Basys 3 (Artix-7) using Xilinx Vivado. A D flip-flop based frequency divider that scales down the 100 MHz onboard clock to a human-visible frequency using a 27-bit counter.
 
 How It Works
